@@ -1,6 +1,6 @@
-package com.praktikummp.roommvp.Presenter;
+package com.praktikummp.BelajarRoomMVP.Presenter;
 
-import com.praktikummp.roommvp.Database.Entity.Person;
+import com.praktikummp.BelajarRoomMVP.Database.Entity.Person;
 
 public interface EditPresenter {
 

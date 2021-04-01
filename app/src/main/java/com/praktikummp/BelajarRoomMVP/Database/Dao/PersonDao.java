@@ -1,4 +1,4 @@
-package com.praktikummp.roommvp.Database.Dao;
+package com.praktikummp.BelajarRoomMVP.Database.Dao;
 
 import androidx.room.Dao;
 import androidx.room.Delete;
@@ -6,7 +6,7 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.praktikummp.roommvp.Database.Entity.Person;
+import com.praktikummp.BelajarRoomMVP.Database.Entity.Person;
 
 import java.util.List;
 

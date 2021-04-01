@@ -1,4 +1,4 @@
-package com.praktikummp.roommvp.Database;
+package com.praktikummp.BelajarRoomMVP.Database;
 
 import android.content.Context;
 
@@ -6,8 +6,8 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-import com.praktikummp.roommvp.Database.Entity.Person;
-import com.praktikummp.roommvp.Database.Dao.PersonDao;
+import com.praktikummp.BelajarRoomMVP.Database.Entity.Person;
+import com.praktikummp.BelajarRoomMVP.Database.Dao.PersonDao;
 
 @Database(entities = {Person.class}, version = 1, exportSchema = false)
 public abstract class  AppDatabase extends RoomDatabase {

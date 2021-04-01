@@ -1,10 +1,10 @@
-package com.praktikummp.roommvp.Presenter;
+package com.praktikummp.BelajarRoomMVP.Presenter;
 
-import com.praktikummp.roommvp.Database.Dao.PersonDao;
-import com.praktikummp.roommvp.Database.Entity.Person;
-import com.praktikummp.roommvp.Utils.Constants;
-import com.praktikummp.roommvp.Utils.Util;
-import com.praktikummp.roommvp.View.EditView;
+import com.praktikummp.BelajarRoomMVP.Database.Dao.PersonDao;
+import com.praktikummp.BelajarRoomMVP.Database.Entity.Person;
+import com.praktikummp.BelajarRoomMVP.Utils.Constants;
+import com.praktikummp.BelajarRoomMVP.Utils.Util;
+import com.praktikummp.BelajarRoomMVP.View.EditView;
 
 public class EditPresenterImp implements EditPresenter{
     private final EditView view;

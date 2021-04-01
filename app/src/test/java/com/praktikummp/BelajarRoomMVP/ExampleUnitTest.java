@@ -1,4 +1,4 @@
-package com.praktikummp.roommvp;
+package com.praktikummp.BelajarRoomMVP;
 
 import org.junit.Test;
 

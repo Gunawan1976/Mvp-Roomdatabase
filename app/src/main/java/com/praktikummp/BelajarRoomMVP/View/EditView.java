@@ -1,6 +1,6 @@
-package com.praktikummp.roommvp.View;
+package com.praktikummp.BelajarRoomMVP.View;
 
-import com.praktikummp.roommvp.Database.Entity.Person;
+import com.praktikummp.BelajarRoomMVP.Database.Entity.Person;
 
 public interface EditView {
 

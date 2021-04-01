@@ -1,4 +1,4 @@
-package com.praktikummp.roommvp.Database.Entity;
+package com.praktikummp.BelajarRoomMVP.Database.Entity;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
